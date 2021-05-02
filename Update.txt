@@ -1,5 +1,5 @@
 Lneko1.0.1_Updatev6
-https://Lneko/api/LnekoDLL.dll
+https://github.com/Lnekoq/Lneko/blob/main/LnekoDLL.dll
 NO
 vR
 DLL
